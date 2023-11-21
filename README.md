@@ -17,6 +17,6 @@ Welcome to my portfolio_site_2023 repository!
 - Reactjs
 - Vite
 
-Feel free to clone or fork this repository to explore, contribute, or use it as inspiration for your own projects. Your feedback is highly appreciated!
+Feel free to clone or fork this repository to explore or use it as inspiration for your own projects. Your feedback is highly appreciated!
 
 Happy coding! 🚀
