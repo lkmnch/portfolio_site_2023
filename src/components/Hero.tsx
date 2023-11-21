@@ -1,7 +1,4 @@
-import { MapPin } from "lucide-react"
-
 const Hero = () => {
-	// Vite will not transform this
 	const imgUrl = new URL(
 		"../images/Profilbild_Loukmane_Chaou.jpg",
 		import.meta.url
