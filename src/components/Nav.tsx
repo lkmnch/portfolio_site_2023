@@ -38,26 +38,26 @@ const Nav = () => {
 							</li>
 							<li className='border-b border-gray-400 my-8 uppercase'>
 								<a href='#portfolio' onClick={() => setIsNavOpen(false)}>
-									Portfolio
+									Projects
 								</a>
 							</li>
 							<li className='border-b border-gray-400 my-8 uppercase'>
 								<a href='#contact' onClick={() => setIsNavOpen(false)}>
-									Contact
+									Blog
 								</a>
 							</li>
 						</ul>
 					</div>
 				</section>
 				<ul className='DESKTOP-MENU hidden space-x-8 lg:flex'>
-					<li>
+					<li className='text-lime-950'>
 						<a href='#about'>About</a>
 					</li>
-					<li>
-						<a href='#portfolio'>Portfolio</a>
+					<li className='text-lime-950'>
+						<a href='#portfolio'>Projects</a>
 					</li>
-					<li>
-						<a href='#contact'>Contact</a>
+					<li className='text-lime-950'>
+						<a href='#contact'>Blog</a>
 					</li>
 				</ul>
 			</nav>
