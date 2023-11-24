@@ -4,8 +4,8 @@ const Projects = () => {
 		import.meta.url
 	).href
 	return (
-		<section id='portfolio' className='bg-orange-100'>
-			<div className='container mx-auto px-4 flex flex-col  h-screen gap-5 '>
+		<section id='portfolio' className='bg-orange-100 h-fit'>
+			<div className='container mx-auto p-4 flex flex-col gap-5 '>
 				<div className='flex flex-col gap-5'>
 					<h3 className='text-4xl  font-bold text-lime-950'>Projects</h3>
 					<p className=' text-lime-950 text-lg'>
