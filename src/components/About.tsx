@@ -2,9 +2,14 @@ const About = () => {
 	return (
 		<section id='about' className='w-fit'>
 			<div className=' w-fit px-4  flex flex-col  gap-10 items-center lg:items-start  '>
-				<h1 className='text-4xl  font-bold text-lime-950'>
-					Hi! I'm Loukmane, a developer based in <br /> Germany.
-				</h1>
+				<blockquote className='text-4xl  font-bold text-lime-950 leading-normal'>
+					Hi! I'm Loukmane, <br /> a {""}
+					<span className='relative'>
+						<span className='block absolute -inset-0.5 -skew-y-3 bg-lime-950 aria-hidden="true"'></span>
+						<span className='relative text-white'>developer</span>
+					</span>{" "}
+					based in Germany.
+				</blockquote>
 				<div className='ABOUT-CONTENT flex flex-col  gap-5'>
 					<p className='text-lime-950 text-2xl'>
 						In 2018, I started my journey into the world of Tech. Throughout my
