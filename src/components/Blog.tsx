@@ -8,18 +8,18 @@ const Blog = () => {
 						I write about stuff I found difficult to help people with the same
 						problem and to consildate the knowledge I gained!
 					</p>
-					<ul className='projects-grid text-lime-950 flex flex-col gap-5'>
-						<li className='border-4 border-lime-950 rounded-xl h-40'>
+					<ul className='blog-grid text-lime-950 lg:grid lg:grid-cols-8 gap-5'>
+						<li className='hover:bg-orange-200/30 rounded-xl h-fit w-fit p-5 flex flex-wrap gap-5 col-span-4'>
 							How does the spreadable operater work? And How to use it
 							effectivly
 						</li>
-						<li className='border-4 border-lime-950 rounded-xl h-40'>
+						<li className='hover:bg-orange-200/30 rounded-xl h-fit w-fit p-5 flex flex-wrap gap-5 col-span-4'>
 							When to use useState() and when to use useReducer()
 						</li>
-						<li className='border-4 border-lime-950 rounded-xl h-40'>
+						<li className='hover:bg-orange-200/30 rounded-xl h-fit w-fit p-5 flex flex-wrap gap-5 col-span-4'>
 							concept of destructuring Objects
 						</li>
-						<li className='border-4 border-lime-950 rounded-xl h-40'>
+						<li className='hover:bg-orange-200/30 rounded-xl h-fit w-fit p-5 flex flex-wrap gap-5 col-span-4'>
 							Layout for styling with tailwindcss
 						</li>
 					</ul>
