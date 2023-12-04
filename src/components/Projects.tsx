@@ -12,7 +12,7 @@ const Projects = () => {
         import.meta.url
     ).href */
     return (
-        <section id="portfolio" className="h-fit bg-orange-100">
+        <section id="portfolio" className="h-screen bg-orange-100">
             <div className="container mx-auto flex flex-col gap-5 p-4 ">
                 <div className="flex flex-col gap-5">
                     <h3 className="text-4xl  font-bold text-lime-950">
