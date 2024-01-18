@@ -2,7 +2,6 @@ Welcome to my portfolio_site_2023 repository!
 
 🚀 Explore my digital presence and creative endeavors in this dedicated space. This repository houses the source code and assets for my personal portfolio website, crafted with passion and precision.
 
-🌐 **Live Demo**: [Insert Live Demo Link]
 
 ## Highlights:
 - **Responsive Design:** Experience seamless navigation on a variety of devices.
