@@ -2,7 +2,7 @@
 import Footer from './components/Footer'
 import Header from './components/Header'
 import Hero from './components/Hero'
-import Projects from './components/Projects'
+//import Projects from './components/Projects'
 //import UnderConstruction from './components/UnderConstruction'
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
             {/* <UnderConstruction /> */}
             <Header />
             <Hero />
-            <Projects />
+            {/* <Projects /> */}
             {/* <Blog /> */}
             <Footer />
         </>

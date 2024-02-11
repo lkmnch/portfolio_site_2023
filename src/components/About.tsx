@@ -14,15 +14,14 @@ const About = () => {
                     <p className="text-2xl text-lime-950">
                         In 2018, I started my journey into the world of Tech.
                         Throughout my studies, I immersed myself in software
-                        engineering and project management, navigating through
+                        engineering and data engineering, navigating through
                         traditional to agile methodologies.
                     </p>
                     <p className="text-2xl text-lime-950">
-                        I developed a solid understanding of economic principles
-                        and the strategic application of IT. As an IT consultant
-                        at MHP, a Porsche Group company, I got experience in
-                        integrating HR-Software into the cloud, showcasing my
-                        expertise in frontend technologies.
+                        As an IT consultant at MHP, a Porsche Group company, I
+                        got experience in integrating HR-Software into the
+                        cloud, showcasing my expertise in data engineering and
+                        frontend technologies.
                     </p>
 
                     <p className="text-2xl text-lime-950 ">
