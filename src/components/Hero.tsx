@@ -1,5 +1,5 @@
 import { Mail } from 'lucide-react'
-import About from './About'
+//import About from './About'
 
 const Hero = () => {
     const imgUrl = new URL(
