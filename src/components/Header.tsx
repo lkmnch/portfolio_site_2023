@@ -1,4 +1,4 @@
-import Nav from './Nav'
+//import Nav from './Nav'
 
 const Header = () => {
     return (
@@ -6,12 +6,12 @@ const Header = () => {
             <div className="bg-red-700 text-center text-white">
                 This Page is currently Under Construction
             </div>
-            <div className="container mx-auto flex items-center justify-between  px-4 py-8">
+            {/*             <div className="container mx-auto flex items-center justify-between  px-4 py-8">
                 <h1 className="text-xl font-bold text-lime-950 ">
                     <a href="#">Loukmane Chaou</a>
                 </h1>
                 <Nav />
-            </div>
+            </div> */}
         </header>
     )
 }
