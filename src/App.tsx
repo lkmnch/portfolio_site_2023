@@ -1,5 +1,5 @@
 //import Blog from './components/Blog'
-import Footer from './components/Footer'
+//import Footer from './components/Footer'
 import Header from './components/Header'
 //import Hero from './components/Hero'
 //import Projects from './components/Projects'
@@ -13,7 +13,7 @@ function App() {
             {/* <Hero /> */}
             {/* <Projects /> */}
             {/* <Blog /> */}
-            <Footer />
+            {/* <Footer /> */}
         </>
     )
 }
