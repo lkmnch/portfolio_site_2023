@@ -77,7 +77,7 @@ const Hero = () => {
                     </div>
                 </div>
 
-                <About />
+                {/* <About /> */}
                 {/* <div id='skills' className='flex flex-wrap flex-col items-center gap-5'>
 					<p className='text-3xl text-center font-bold text-stone-900'>
 						Tech-Stack
